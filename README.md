@@ -1,2 +1,2 @@
-# master
+# plant game
 plant game
